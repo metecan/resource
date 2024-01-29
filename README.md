@@ -1,6 +1,8 @@
 # reSource
 
-reSource is a simple image proxy built for re-sourcing image for your nextjs projects made with [HonoJS](https://hono.dev).
+reSource is a simple image proxy built for re-sourcing image for your nextjs project.
+
+Made with [HonoJS](https://hono.dev).
 
 ## ✨ How it works?
 
